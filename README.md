@@ -1,6 +1,6 @@
 # WP Responsive Images
 
-Enhances WP images to load the optimal srcset option using the [`rsp-img` custom built in element](https://github.com/roborourke/rsp-img).
+Enhances images to load the optimal srcset option using the [`rsp-img` library](https://github.com/roborourke/rsp-img).
 
 ## Installation
 
